@@ -1,7 +1,7 @@
 package Activity2;
 import java.util.Scanner;
 
-public class Rahul2 {
+public class RahulMain1 {
 	public static boolean samelastname(String s1, String s2)
 	{
 		int n1=-1,n2=-1,i;

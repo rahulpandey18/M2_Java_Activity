@@ -1,7 +1,7 @@
 package Activity1;
 import java.util.Scanner;
 
-public class Rahul1 {
+public class RahulMain {
 	
 	public static String FirstlettlerCapital(String s)
 	{

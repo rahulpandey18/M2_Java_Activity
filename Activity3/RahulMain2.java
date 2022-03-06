@@ -2,7 +2,7 @@ package Activity3;
 
 import java.util.*;
 
-public class Rahul3 {
+public class RahulMain2 {
     Scanner sc = new Scanner(System.in);
     private String team;
     private String current_Innings;
@@ -58,7 +58,7 @@ public class Rahul3 {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        Rahul3 cr = new Rahul3();
+        RahulMain2 cr = new RahulMain2();
         cr.Values();
         cr.displayValues();
     }
