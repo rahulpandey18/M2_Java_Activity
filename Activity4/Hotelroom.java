@@ -11,11 +11,11 @@ class Hotelroom {
         Hotelroom() {
         }
 
-        public Hotelroom(String hotelName, int numberOfSqFeet, boolean hasTV, boolean hasWifi) {
+        public Hotelroom(String hotelName, int numberOfSqFeet, boolean HasTV, boolean HasWifi) {
                 this.hotelName = hotelName;
                 this.numberOfSqFeet = numberOfSqFeet;
-                hasTV = hasTV;
-                hasWifi = hasWifi;
+                hasTV = HasTV;
+                hasWifi = HasWifi;
         }
 
         public void setHotelName(String hotel) {
